@@ -4,7 +4,7 @@
     "occupation": "Computer Science Student, Developer at Cobmais and CTO at Mutirou",
     "description": "",
     "image": "perfil.png",
-    "bio": "My name is Henrique. I'm a Developer, Student and Researcher 💻👨‍🎓🔍. Currently I'm working at Cobmais as full stack developer and manege my system called Mutirou. I love Artificial Intelligence and getting new skills ❤️. Music and Planes are my hobbies 🎶✈️. ",
+    "bio": "My name is Henrique. I'm a Developer, Student and Researcher 💻👨‍🎓🔍. Currently I'm working at Trybe as Instructor. I love Artificial Intelligence and getting new skills ❤️. Music and Planes are my hobbies 🎶✈️. ",
     "email": "ricci.henrique@outlook.com",
     "phone": "+55 18 98824-7731",
     "address": {
@@ -45,18 +45,24 @@
         "description": "Graduated with Honors"
       }
     ],
-    "work": [
+    "work": [      
       {
-        "company": "Cobmais",
-        "title": "Developer",
-        "years": "August 2020 - Present",
-        "description": "Full Stack Developer"
+        "company": "Trybe",
+        "title": "Instructor",
+        "years": "February 2021 - Present",
+        "description": "Development Instructor"
       },
       {
         "company": "Mutirou",
-        "title": "CTO",
+        "title": "Idealizer",
         "years": "November 2019 - Present",
         "description": "Software Arquitect, Infrastructure Analyst, Developer, DevOps Analyst"
+      },
+      {
+        "company": "Cobmais",
+        "title": "Developer",
+        "years": "August 2020 - January 2021",
+        "description": "Full Stack Developer"
       },
       {
         "company": "Universidade do Oeste Paulista",
